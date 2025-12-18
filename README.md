@@ -1,2 +1,2 @@
 # code-atlas
-AI-powered GitHub repository explorer with VS Code–like search, code insights, and analytics.
+Understand GitHub repositories and developer profiles through intelligent insights, not raw code.
